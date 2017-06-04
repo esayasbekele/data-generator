@@ -74,3 +74,14 @@ to run this data generator, you need to first create an index defintion using a 
     }
 }
 ```
+You will also need the example data set from (http://www.fueleconomy.gov/feg/epadata/vehicles.csv.zip) in the same folder. Then,
+
+```
+npm install
+```
+
+followed by 
+
+```
+node index.js
+```
